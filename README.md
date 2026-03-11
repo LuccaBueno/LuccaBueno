@@ -8,7 +8,7 @@ Interessado em programação, algoritmos e desenvolvimento de software.
 
 * Estudando **Java** e **C**
 * Resolvendo problemas no **BeeCrowd**
-* Interessado em **algoritmos e estruturas de dados**
+* Foco em **algoritmos e estruturas de dados**
 
 ## Sobre este repositório
 
