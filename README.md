@@ -24,3 +24,7 @@ Inclui:
 * melhorar lógica de programação
 * praticar diferentes linguagens
 * desenvolver raciocínio algorítmico
+
+ ## Meu perfil Beecrowd: 
+ 
+ * https://judge.beecrowd.com/pt/profile/1219476
