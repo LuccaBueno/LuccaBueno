@@ -17,7 +17,7 @@ Este repositório contém exercícios de programação que resolvi durante meus 
 Inclui:
 
 * Exercícios do **BeeCrowd (Java)**
-* Exercícios de **programação em C feitos em aula**
+* Exercícios de **programação em C**
 
 ## Objetivos
 
