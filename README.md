@@ -10,7 +10,7 @@ Interessado em programação, algoritmos e desenvolvimento de software.
 * Resolvendo problemas no **BeeCrowd**
 * Interessado em **algoritmos e estruturas de dados**
 
-## 🚀 Sobre este repositório
+## Sobre este repositório
 
 Este repositório contém exercícios de programação que resolvi durante meus estudos.
 
