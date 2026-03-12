@@ -10,14 +10,11 @@ Estudante de **Engenharia de Computação – Universidade de Taubaté**
 * Resolvendo problemas no **BeeCrowd**
 * Foco em **algoritmos e estruturas de dados**
 
-## Contato
+## Contatos e Links
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:luccabcuzzolin@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucca-bueno-cuzzolin-46607a250/)
-
-## Links
-
-[![BeeCrowd](https://img.shields.io/badge/BeeCrowd-Profile-orange?style=for-the-badge)](https://judge.beecrowd.com/pt/profile/1219476)
+[![BeeCrowd](https://img.shields.io/badge/BeeCrowd-orange?style=for-the-badge)](https://judge.beecrowd.com/pt/profile/1219476)
 
 ## Linguagens e Tecnologias
 
