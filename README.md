@@ -1,30 +1,34 @@
+
 # Lucca Bueno
 
-Estudante de **Engenharia de Computação na Universidade de Taubaté**.
-
-Interessado em programação, algoritmos e desenvolvimento de software.
+Estudante de **Engenharia de Computação – Universidade de Taubaté**
 
 ## Sobre mim
 
-* Estudando **Java** e **C**
+* Estudando **Java e C**
+* Praticando **lógica de programação**
 * Resolvendo problemas no **BeeCrowd**
 * Foco em **algoritmos e estruturas de dados**
 
-## Sobre este repositório
+## Contato
 
-Este repositório contém exercícios de programação que resolvi durante meus estudos.
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:luccabcuzzolin@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lucca-bueno-cuzzolin-46607a250/)
 
-Inclui:
+## Links
 
-* Exercícios do **BeeCrowd (Java)**
-* Exercícios de **programação em C**
+[![BeeCrowd](https://img.shields.io/badge/BeeCrowd-Profile-orange?style=for-the-badge)](https://judge.beecrowd.com/pt/profile/1219476)
 
-## Objetivos
+## Linguagens e Tecnologias
 
-* melhorar lógica de programação
-* praticar diferentes linguagens
-* desenvolver raciocínio algorítmico
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
- ## Meu perfil Beecrowd: 
- 
- * https://judge.beecrowd.com/pt/profile/1219476
+## Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuccaBueno\&show_icons=true\&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaBueno\&layout=compact\&theme=dark)
+
+
+
