@@ -27,9 +27,9 @@ Estudante de **Engenharia de Computação – Universidade de Taubaté**
 -------
 <div align="center">
   
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=LuccaBueno&show_icons=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuccaBueno&show_icons=true&hide_title=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d"/>
 
-  <img height="185em" src="https://streak-stats.demolab.com?user=LuccaBueno&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=58a6ff&dates=c9d1d9&border=30363d"/>
+  <img height="150em" src="https://streak-stats.demolab.com?user=LuccaBueno&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideNums=c9d1d9&currStreakNum=58a6ff&dates=c9d1d9&border=30363d"/>
 
   <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaBueno&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
 
