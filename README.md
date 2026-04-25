@@ -19,17 +19,3 @@ Estudante de **Engenharia de Computação – Universidade de Taubaté**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-
----
-
-
-
--------
-<div align="center">
-
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaBueno&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d"/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuccaBueno&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&hide_border=true&hide_title=true"/>
-
-</div>
-
