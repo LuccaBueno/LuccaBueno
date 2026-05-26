@@ -17,10 +17,5 @@ Estudante de **Engenharia de Computação – Universidade de Taubaté**
 
 ## Linguagens e Tecnologias
 
-<a href="https://github.com/LuccaBueno/beecrowd-java" target="_blank">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</a>
-
-<a href="https://github.com/LuccaBueno/c-programming-practice" target="_blank">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-</a>
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/LuccaBueno/beecrowd-java)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/LuccaBueno/c-programming-practice)
